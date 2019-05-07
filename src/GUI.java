@@ -84,7 +84,7 @@ public class GUI extends Application {
         //lets scene 1 = to the corresponing userLayout
         scene1 = new Scene(userLayout, 600, 400);
 
-        //UNFORTUNATELY I DID NOT HAVE TIME TO FINISH IMPLEMENTING THE FUNCTIONS TO MY GUI BUTTONS, HOWEVER THE BELOW CODE IS HOW I WANTED THE ENTIRE GUI TO LOOK LIKE
+      
         //SCENE3 LAYOUT - SCREEN USER SELECT SCREEN
         //User clicks to logout of application
         HBox userSelect = new HBox();
